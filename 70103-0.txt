@@ -14,7 +14,7 @@ Title: Chantemerle
 Authors: D. K. Broster
          G. W. Taylor
 
-Release Date: February 21, 2023 [eBook #70103]
+Release Date: February 22, 2023 [eBook #70103]
 
 Language: English
 
@@ -120,7 +120,7 @@ Produced by: anonymous Project Gutenberg volunteers
 
      XXIV. “I SENT A LETTER TO MY LOVE”. . . . . . . . . . . . . . 261
 
-      XXV. “OÙ PEUT-ON ÊTRE MIEUX QU’AU SEIN DE SA FAMILLE?”. . . 272
+      XXV. “OÙ PEUT-ON ÊTRE MIEUX QU’AU SEIN DE SA FAMILLE ?”. . . 272
 
      XXVI. BELEAGUERED . . . . . . . . . . . . . . . . . . . . . . 286
 
@@ -497,11 +497,11 @@ pretended that they had never taken any interest.
                         “MONSIEUR MON COUSIN”
 
  “ROXANE. Il faut que je revoie en vous le . . . presque frère,
-          Avec qui je jouais, dans le parc—près du lac!
-  CYRANO. Oui, vous veniez tous les étés à Bergerac! . . .
+          Avec qui je jouais, dans le parc—près du lac !
+  CYRANO. Oui, vous veniez tous les étés à Bergerac ! . . .
   ROXANE. C’était le temps des jeux. . . .
   CYRANO.                                  Des murons aigrelets. . . .
-  ROXANE. Le temps où vous faisiez tout ce que je voulais! . . .”
+  ROXANE. Le temps où vous faisiez tout ce que je voulais ! . . .”
                        —ROSTAND, _Cyrano de Bergerac_. Act II. Sc. vi.
 
 
@@ -2850,7 +2850,7 @@ tortoise! Where are my clothes?”
      “Je t’ai vue au temps des lilas,
          Ton jeune cœur venait d’éclore,
       Et tu disais, ‘Je ne veux pas,
-         Je ne veux pas qu’on m’aime encore!’
+         Je ne veux pas qu’on m’aime encore !’
       Qu’as-tu fait depuis mon départ?
       Qui part trop tôt revient top tard. . . .”
                                                     —ALFRED DE MUSSET.
@@ -9163,9 +9163,9 @@ cross at Ingrande or Varades. Don’t you think that would be best?”
 
                              CHAPTER XXV
 
-          “OÙ PEUT-ON ÊTRE MIEUX QU’AU SEIN DE SA FAMILLE?”
+          “OÙ PEUT-ON ÊTRE MIEUX QU’AU SEIN DE SA FAMILLE ?”
 
-     “Où peut-on être mieux qu’au sein de sa famille?
+     “Où peut-on être mieux qu’au sein de sa famille ?
       Tout est content, le cœur, les yeux ;
       Vivons, amis, comme nos bons aieux.
       Les noms d’époux et de fille sont délicieux.”
@@ -14401,7 +14401,7 @@ with a woman’s hair.
      “Monsieur d’Charette a dit à ceux d’Monfort,
       Monsieur d’Charette a dit à ceux d’Monfort
          ‘Frappez fort ;
-      Le drapeau blanc défend contre la mort!’”
+      Le drapeau blanc défend contre la mort !’”
                                               —_Monsieur d’ Charette_.
 
 
@@ -14434,7 +14434,7 @@ patois.
      “O sainte Vierge Marie
       Condis, soutiens nos bras vengeurs :
       Contre ine sequelle annemie
-      Combats avec tes zélateurs! . . .”
+      Combats avec tes zélateurs ! . . .”
 
 And after they had sung they turned and were swallowed up in the woods
 whence they had appeared. Masked by these woods, they were going to
@@ -14919,7 +14919,7 @@ Louis?”
 The younger man’s eyes fell. “Yes,” he said, very low, as if he were
 confessing to a fault of his own.
 
-“Well, then. . . .?”
+“Well, then. . . . ?”
 
 The Vicomte lifted his head, and met the strange serene light in
 Gilbert’s eyes. His own keen gaze was misty. Without a word he flung
